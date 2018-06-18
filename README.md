@@ -24,7 +24,7 @@ You can run `learn` to see if the tests are passing.
 
 7. Let's take the string `"Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"`. We want to use the `gsub` method to switch all `A` for `O`, as well as all `a` for `o`. We'll need to chain `gsub`s.
 <p data-visibility='hidden'>KWK-L1 Silly String</p>
-
-## Hints
-
+ Hints 
 Don't edit the variable names in the file. Try running `ruby silly_string.rb` to see what is being printed.
+
+puts "hello"
